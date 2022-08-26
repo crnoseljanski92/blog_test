@@ -1,0 +1,26 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=5554
+END=6355
+title=Querying cy.get() - query DOM elements
+[CHAPTER]
+TIMEBASE=1/1000
+START=6661
+END=7163
+title=Querying cy.contains() - query DOM elements with matching content
+[CHAPTER]
+TIMEBASE=1/1000
+START=7331
+END=7676
+title=Querying .within() - query DOM elements within a specific element
+[CHAPTER]
+TIMEBASE=1/1000
+START=7688
+END=8023
+title=Querying cy.root() - query the root DOM element
+[CHAPTER]
+TIMEBASE=1/1000
+START=7131
+END=8362
+title=Querying best practices - selecting elements
